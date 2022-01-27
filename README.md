@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/mouhamed-messaoudi-a65526211/">
   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mouhamed_messaoudii/?hl=">
+<a href="https://www.instagram.com/mouhamed_messaoudii/?hl=fr">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>

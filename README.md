@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm mouhamed
+## Hi 👋, I'm mouhamed 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
 
 <br>
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/mouhamed-messaoudi-a65526211/">
   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mouhamed_massoudi/">
+<a href="https://www.instagram.com/mouhamed_messaoudii/?hl=">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
